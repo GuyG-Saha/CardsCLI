@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CardsCLI": {
+      "commandName": "Project",
+      "commandLineArgs": "--deck 1 --draw 15"
+    }
+  }
+}
